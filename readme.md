@@ -9,7 +9,7 @@ An example app using [Laravel 5.3](https://laravel.com), [React](https://faceboo
 - `cp .env.example .env`
 - `php artisan key:generate`
 - `php artisan migrate --seed`
-- `gulp watch`
+- Once npm dependencies are installed: `gulp watch`
 - `php artisan serve`
 - Open your browser to `http://localhost:8000`
 
